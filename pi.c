@@ -1,4 +1,4 @@
-/*
+ /*
     This program is based on the following formula:
     pi = 2 + 1/3 * (2 + 2/5 * (2 + 3/7 * (2 + ...  (2 + k/2k+1 * (2 + ... ))...)))
 */
