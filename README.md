@@ -6,7 +6,7 @@
 
 ##Note 说明##
 
-This is based on the following codes:
+This program is based on the following codes:
 
 本程序由以下代码改编而来：
 	
